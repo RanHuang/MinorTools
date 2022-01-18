@@ -1,0 +1,14 @@
+# comment
+*/temp*
+*/*/temp*
+temp?
+#Ignoring all the markdown 
+*.md
+!README.md
+#Ignore the logs directory
+logs/
+#Ignoring git and cache folders
+.git
+.cache
+# Ignore virtual env
+venv
